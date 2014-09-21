@@ -10,7 +10,7 @@ How to run from console: java -jar ConsoleDownloader-all.jar -n 5 -l 200k -o out
 
 Where n - number of concurrently downloading threads, l - download speed limit, o - output folder, f - file containing links to download in format:
 
-<HTTP-link><space><file name to save>
+	<HTTP-link><space><file name to save>
 
 Example:
 
